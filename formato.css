@@ -1,0 +1,31 @@
+body{
+    background:rgb(70, 116, 70);
+    overflow-y:auto;
+}
+
+.img{
+    width:50px;
+    height:50px;
+}
+
+h1{
+    color: black;
+    font-size:60px;
+    text-align:center;
+    margin-top:230px;
+}
+
+h2{
+    color: black;
+    font-size:30px;
+    text-align:center;
+}
+
+.rodape{
+    color:white;
+    background-color:black;
+    text-align:center;
+    position:fixed;
+    width:100%;
+    bottom:-8px;
+}
